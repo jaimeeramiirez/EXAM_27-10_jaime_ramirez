@@ -38,4 +38,5 @@ def modificar():
 
   print("*",lista2[0]==sum(lista2[1:]),"*")
 
-modificar()
+
+modificar()  
