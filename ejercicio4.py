@@ -22,7 +22,4 @@ def lista__():
   print(lista_nueva)
 
 
-  
-
-
 lista__()
